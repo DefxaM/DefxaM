@@ -7,7 +7,7 @@
 <p>专注于构建可靠、可扩展且真正解决问题的智能应用。</p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Tool+Calling;Building+reliable+intelligent+systems"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Harness+%7C+Self-Evolution agent;Building+reliable+intelligent+systems"
   alt="Typing SVG"
 />
 
