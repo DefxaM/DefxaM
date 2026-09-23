@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi 👋，我是 DefxaM
+<h2>Hi 👋，我是 DefxaM</h2>
 
-### AI Agent 应用开发学习中
+<h4>AI Agent 应用开发学习中</h4>
 
-专注于构建可靠、可扩展且真正解决问题的智能应用。
+<p>专注于构建可靠、可扩展且真正解决问题的智能应用。</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Tool+Calling;Building+reliable+intelligent+systems" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Tool+Calling;Building+reliable+intelligent+systems"
+  alt="Typing SVG"
+/>
 
 </div>
 
@@ -17,22 +20,7 @@
 - 🔧 探索 Tool Calling、MCP、RAG、Memory 与多 Agent 协作
 - 🚀 致力于把模型能力转化为稳定、可用的实际产品
 
-## 🛠️ 技术栈
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,nodejs,postgres,redis,docker,git,github,vscode" alt="Technology stack" />
-
-<br/><br/>
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-7C3AED?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-059669?style=flat-square)
-![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-EA580C?style=flat-square)
-![Context Engineering](https://img.shields.io/badge/Context_Engineering-DB2777?style=flat-square)
-
-</div>
 
 ## 📊 GitHub 数据
 
