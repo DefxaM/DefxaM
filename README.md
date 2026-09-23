@@ -20,17 +20,7 @@
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=DefxaM&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=cn"
-  alt="DefxaM GitHub stats"
-/>
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefxaM&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=cn"
-  alt="DefxaM most used languages"
-/>
 
 <br/>
 
