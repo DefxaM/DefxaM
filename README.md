@@ -20,17 +20,13 @@
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=DefxaM&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;locale=cn"
-  alt="DefxaM GitHub stats"
-/>
+<div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DefxaM&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;locale=cn"
-  alt="DefxaM most used languages"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DefxaM&show_icons=true&theme=transparent&hide_border=true&locale=cn)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DefxaM&layout=compact&theme=transparent&hide_border=true&locale=cn)
+
+
 
 <br/>
 
