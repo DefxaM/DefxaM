@@ -1,33 +1,30 @@
 <div align="center">
 
-<h2>Hi 👋，我是 DefxaM</h2>
+<h2>Hi 👋, I'm DefxaM</h2>
 
-<h4>AI Agent 应用开发学习中</h4>
+<h4>Currently Learning AI Agent Application Development</h4>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Harness+%7C+Self-Evolution+Agent;Building+reliable+intelligent+systems"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Harness+%7C+Self-Evolution+Agent;Building+Reliable+Intelligent+Systems"
   alt="Typing SVG"
 />
 
 </div>
 
-## 👨‍💻 关于我
+## 👨‍💻 About Me
 
-- 🤖 专注于 AI Agent 应用开发
-- 🔧 探索 Harness、RAG、Memory 与多 Agent 协作、Self-Evolution Agent
+- 🤖 Focused on AI Agent application development
+- 🔧 Exploring Harness, RAG, Memory, multi-agent collaboration, and self-evolving agents
 
-## 📊 GitHub 数据
+## 📊 GitHub Stats
 
 <div align="center">
-
-
 
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=DefxaM&amp;theme=transparent&amp;hide_border=true&amp;locale=zh_Hans"
-  alt="DefxaM contribution streak"
+  src="https://streak-stats.demolab.com?user=DefxaM&theme=transparent&hide_border=true&locale=en"
+  alt="DefxaM's GitHub contribution streak"
 />
 
 </div>
-
