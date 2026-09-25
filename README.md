@@ -5,7 +5,7 @@
 <h4>Currently Learning AI Agent Application Development</h4>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Agent+Application+Developer;LLM+Agents+%7C+RAG+%7C+MCP+%7C+Harness+%7C+Self-Evolution+Agent;Building+Reliable+Intelligent+Systems"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+Agent+Application+Developer;LLM+Agents+%7C+Agentic+RAG+%7C+MCP+%7C+Harness+%7C+Self-Evolution+Agent;Building+Reliable+Intelligent+Systems"
   alt="Typing SVG"
 />
 
